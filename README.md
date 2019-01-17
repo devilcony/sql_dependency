@@ -1,2 +1,2 @@
 # sql_dependency
-Output dependencies of the input sqls
+A tool to get the dependencies of the sql scripts.
